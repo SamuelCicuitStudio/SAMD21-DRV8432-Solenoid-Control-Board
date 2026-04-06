@@ -13,6 +13,8 @@ This repository contains the hardware design files and support documents for a c
 - reverse polarity protection on the main power input
 - compact mechanical packaging for a narrow board format
 
+This project was created for the client `@jermainet5` on Freelancer.
+
 ## Mechanical Targets
 
 - Board size target: `31 mm x 121 mm`
